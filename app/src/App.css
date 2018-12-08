@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+.Container {
+  width: 60%;
+  margin: 0 auto;
+  box-sizing: border-box;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
